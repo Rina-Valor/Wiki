@@ -28,7 +28,7 @@ Ignores defense of target
 
 Fame Bonus: 8%
 
-***Upgradable with an Elemental Sor Crystal!***
+***Upgradable with an Elemental Sor!***
 
 **Drops from Krokanich of the Ancient Depths**
 
