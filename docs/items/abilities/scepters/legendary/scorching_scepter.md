@@ -8,7 +8,7 @@ sidebar_position: 4
 
 <i>A scepter that wields flame at it's command.</i>
 
-Lightning: 2500 to 7 targets
+Lightning: 2500 (wismod) to 7 targets
 
 Effect on Self: Damaging for 3 seconds
 
