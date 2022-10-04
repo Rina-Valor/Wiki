@@ -8,7 +8,7 @@ sidebar_position: 3
 
 <i>A scepter that contains mystical abilities borrowed from the energy of time itself.</i>
 
-Lightning: 1700 to 10 targets
+Lightning: 1700 (wismod) to 10 targets
 
 Shot Effect: Dazed for 3 seconds
 
