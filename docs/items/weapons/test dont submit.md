@@ -1,0 +1,7 @@
+[![Blades](https://solidstarts.com/wp-content/uploads/when-can-babies-eat-eggs.jpg)](https://wiki.valorserver.com/docs/category/weapons/blades)
+[![Swords](https://solidstarts.com/wp-content/uploads/when-can-babies-eat-eggs.jpg)](https://wiki.valorserver.com/docs/category/weapons/swords)
+[![Wands](https://solidstarts.com/wp-content/uploads/when-can-babies-eat-eggs.jpg)](https://wiki.valorserver.com/docs/category/weapons/wands)
+[![Staff](https://solidstarts.com/wp-content/uploads/when-can-babies-eat-eggs.jpg)](https://wiki.valorserver.com/docs/category/weapons/staffs)
+[![Katanas](https://solidstarts.com/wp-content/uploads/when-can-babies-eat-eggs.jpg)](https://wiki.valorserver.com/docs/category/weapons/katanas)
+[![Daggers](https://solidstarts.com/wp-content/uploads/when-can-babies-eat-eggs.jpg)](https://wiki.valorserver.com/docs/category/weapons/daggers)
+[![Bows](https://solidstarts.com/wp-content/uploads/when-can-babies-eat-eggs.jpg)](https://wiki.valorserver.com/docs/category/weapons/bows)
