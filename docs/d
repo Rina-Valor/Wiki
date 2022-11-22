@@ -1,0 +1,65 @@
+---
+sidebar_position: 5
+title: Storm Palace
+description: "The Storm Palace Guide."
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+# Storm Palace
+
+<Tabs>
+  <TabItem value="The Dungeon" label="The Dungeon" default>
+
+## The Crypt of the Illusionist
+
+![image](https://user-images.githubusercontent.com/114798136/203441456-434525d9-fe50-4b43-9d56-3f60165508e2.png)
+
+The Crypt of the Illusionist is a Godlands dungeon which drops from the Djinn. This is an incredibly dangerous dungeon with plenty of enemies that have high damage shots, dangerous de-buffs, and an all around confusing layout. 
+
+![badguy](https://cdn.discordapp.com/attachments/953134990428868629/1028857611472343111/paralyze_guy.png)
+
+  </TabItem>
+  <TabItem value="The Rush" label="The Rush">
+
+# The Rush
+
+![image](https://user-images.githubusercontent.com/114798136/203441591-df1506ba-bb41-4029-9c2e-b0f699d6fb8e.png)
+    
+Upon entering the dungeon, you will be surrounded by 5 enemies, 4 of which are actually fakes and are not actually able to do any damage. It is important to always remember to kill the enemy left of the double as that is the real one, and upon it's death the portal to the dungeon will spawn. Be careful and be sure to keep your distance as this enemy will have high damage shots, capable of potentially insta-killing any lower defense and health characters. There are three potential boss rooms, the boss only occupying one per dungeon. It is important whether you are rushing or clearing to monitor your mini-maps to ensure that the invisible crypt-rogue enemy does not sneak up on you as it can do immediate character-ending damage if you are not paying attention. That is not to dismiss the power of anything else in the dungeon, as absolutely everything is a threat.
+    
+## Tips
+
+<ul>
+
+<li>The boss will not attack if you are far enough away or invisible, so come with range or invis for the best chance</li>
+</ul>
+
+  </TabItem>
+  <TabItem value="The Boss" label="The Boss">
+
+# The Boss
+
+
+The boss, the Illusionist, uses high damage and de-buff inflicting shotguns as well as the damage of summoned minions and his summoned turrets. He is a high damage threat that is easily exploited by the use of Invisibility, the boss has phases of invulnerability as well as armored. 
+
+## Tips
+
+<ul>
+
+<li>I'd recommend doing this boss with a rogue as the cloak cuases the boss to not attack</li>
+
+</ul>
+
+  </TabItem>
+  <TabItem value="Item Drops" label="Item Drops">
+
+## Illu
+
+Illu |  Item Drops
+:-------------------------:|:-------------------------:
+![iegon](https://cdn.discordapp.com/attachments/953134990428868629/990767833711530034/Layer_1.png)  | [![wtf](https://vwiki.valorserver.com/api/item/picture/insurgency%20amulet)](https://wiki.valorserver.com/docs/items/rings/legendary/insurgency_amulet) [![UNEARTH](https://vwiki.valorserver.com/api/item/picture/dagger%20of%20unearthly%20storms)](https://wiki.valorserver.com/docs/items/weapons/daggers/ut/dagger_of_unearthly_storms) [![goodring](https://vwiki.valorserver.com/api/item/picture/ring%20of%20the%20storm%20gods)](https://wiki.valorserver.com/docs/items/rings/ut/ring_of_the_storm_gods)  [![storm](https://vwiki.valorserver.com/api/item/picture/stormbreaker)](https://wiki.valorserver.com/docs/items/abilities/shield/ut/stormbreaker) [![typhoon](https://vwiki.valorserver.com/api/item/picture/typhoon%20wand)](https://wiki.valorserver.com/docs/items/weapons/wands/ut/typhoon_wand) ![Nspeed](https://vwiki.valorserver.com/api/item/picture/potion%20of%20speed) ![NLuck](https://vwiki.valorserver.com/api/item/picture/potion%20of%20luck)
+
+  </TabItem>
+</Tabs>
